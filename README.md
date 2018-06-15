@@ -7,3 +7,13 @@ TradeCalc ©, un calculateur d'itinéraires commerciaux pour Archeage par Kennet
 
 
 
+
+
+
+
+
+
+
+
+
+
